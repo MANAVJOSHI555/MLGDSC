@@ -23,7 +23,7 @@ def banknote_predict(input_data):
 
 #CODING THE WEBSITE LAYOUT
 
-st.title('Hello 👋This is my first WebApp in Streamlit')
+st.title('Hello,I am Manav 👋This is my first WebApp in Streamlit')
 
 
 
@@ -61,6 +61,7 @@ def main():
     st.success(prediction)
 
     st.divider()
+     st.subheader('Made By Manav Joshi X KIET GDSC')
 
 
 if __name__ == '__main__':
