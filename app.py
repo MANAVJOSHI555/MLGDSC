@@ -61,7 +61,7 @@ def main():
     st.success(prediction)
 
     st.divider()
-     st.subheader('Made By Manav Joshi X KIET GDSC')
+    st.subheader('Made By Manav Joshi X KIET GDSC')
 
 
 if __name__ == '__main__':
